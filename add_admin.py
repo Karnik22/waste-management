@@ -13,4 +13,7 @@ def add_admin(emal, paswd):
 
 email = "sanjeevlodhi642@gmail.com"
 passwd = "sanjeev@123"
+
+email = "karnikgautam287@gmail.com"
+passwd = "karnik@123"
 add_admin(email, passwd)
